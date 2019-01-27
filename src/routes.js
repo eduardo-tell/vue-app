@@ -1,3 +1,4 @@
+
 import Inicio from './componentes/inicio/Inicio.vue';
 
 export const routes = [
